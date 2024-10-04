@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Backend Tech Stack
 
 ### Connect with me
-![](https://img.shields.io/badge/Linkedin-4ac3ff)
-
+![](https://img.shields.io/badge/Linkedin-4aadff) 
 
 ### Language & Tools
-![](https://img.shields.io/badge/GO-4ac3ff)
+![](https://img.shields.io/badge/GO-4ac3ff) ![](https://img.shields.io/badge/TIBCO%BWCE-0085f3)
